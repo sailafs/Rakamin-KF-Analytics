@@ -1,7 +1,7 @@
 # Kimia Farma Performance Analytics Dashboard Project
 
 ## Introduction
-This is my final project for the Project-Based Virtual Internship as a Big Data Analytics at PT. Kimia Farma, Tbk (provided by Rakamin Academy). As a Big Data Analyst Intern, I was tasked with analyzing sales data across different branches of Kimia Farma and creating a comprehensive sales dashboard for one year using the provided raw data.
+This project is part of the Big Data Analytics Intern assignment at Kimia Farma to evaluate the company's business performance from 2020-2023. The project involves processing 4 datasets (kf_final_transaction.csv, kf_inventory.csv, kf_kantor_cabang.csv, and kf_product.csv) which will be imported into BigQuery for further analysis. The data includes information on transactions, branch ratings, and sales performance. The problem statement focuses on creating a comprehensive business performance dashboard, including revenue analysis, transactions per province, branch ratings, and profit. The final output will be a dashboard in Google Looker Studio that will help stakeholders monitor and analyse the business performance of Kimia Farma comprehensively.
 
 ## Tools Used
 * Google BigQuery - for data processing and analysis
@@ -87,11 +87,11 @@ Using the aggregated data table, I created a dashboard in Google Looker Studio t
 
 ## Results
 
-The final dashboard can be accessed [here]((https://lookerstudio.google.com/u/0/reporting/56ddedb1-77cc-418e-9582-4ee456e1b43a/page/tEnnC)).
+The final dashboard can be accessed [here](https://lookerstudio.google.com/u/0/reporting/56ddedb1-77cc-418e-9582-4ee456e1b43a/page/tEnnC).
 
 Here's a preview of the dashboard:
-![Kimia Farma Dashboard](your_dashboard_image_link)
-[Kimia_Farma_Performance_Dashboard_2020-2023__Saila_Fikriyya.pdf](https://github.com/user-attachments/files/17617310/Kimia_Farma_Performance_Dashboard_2020-2023__Saila_Fikriyya.pdf)
+<img width="908" alt="Screenshot 2024-11-04 at 6 19 35 PM" src="https://github.com/user-attachments/assets/b0d57dbb-28ac-43ed-8de5-63b344f43bea">
+
 
 Key insights from the dashboard:
 1. Net Sales reached 80.6B IDR in 2022
