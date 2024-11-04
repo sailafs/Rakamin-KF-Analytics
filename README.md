@@ -1,4 +1,4 @@
-# Kimia Farma Sales Dashboard Project
+# Kimia Farma Performance Analytics Dashboard Project
 
 ## Introduction
 This is my final project for the Project-Based Virtual Internship as a Big Data Analytics at PT. Kimia Farma, Tbk (provided by Rakamin Academy). As a Big Data Analyst Intern, I was tasked with analyzing sales data across different branches of Kimia Farma and creating a comprehensive sales dashboard for one year using the provided raw data.
